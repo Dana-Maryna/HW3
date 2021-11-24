@@ -1,0 +1,93 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.WebStudio{
+font-weight: 700;
+font-size: 26px;
+color: #2196F3 ;
+color: #000;
+padding: 150px;
+margin: 0 0 0 0;
+width: 145px;
+height: 31px;
+}
+.Студия{
+font-weight: 500;
+font-size: 14px;
+color: #2196F3;
+width: 49px;
+height: 16px;
+padding: 95px;
+margin: ;
+}
+.Портфолио{
+    font-weight: 500;
+    font-size: 14px;
+    color: #212121;
+    padding: 50px;
+    width: 77px;
+    height: 16px;
+}
+.Контакты{
+font-weight: 500;
+font-size: 14px;
+ color: #212121;;
+ padding: 50px;
+ width: 68px;
+height: 16px;
+}
+
+.Эффективные-решения{
+    font-weight: 900;
+    font-size: 44px;
+    color: #FFFFFF;;
+    padding: 450px 200px 450px 28px;
+    width: 696px;
+    height: 120px;
+}
+.Услуга{
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+    width: 200px;
+    height: 50px;
+    
+}
+.Title{
+    font-weight: bold;
+     font-size: 14px;
+     color: #212121; 
+     padding: 30px 95px 30px 10px;
+     width: 270px;
+     height: 16px;
+}
+.Descriere{
+font-weight: normal;
+font-size: 14px;
+color: #757575;
+padding: 30px 10px 30px 95px ;
+width: 270px;
+height: 75px;
+}
+.What-are-we-doind{
+    font-weight: bold;
+   font-size: 36px;
+   color: #212121;
+padding: 610px 95px 610px 50p;
+width: 376px;
+height: 42px;
+}
+.Names{
+    font-weight: 500;
+    font-size: 16px;
+    color: #212121;
+
+}
+.WebStudio2{
+    font-weight: bold;
+     font-size: 26px;
+     color: #2196F3;
+     padding: 215px 60px 1240px 20px;
+     width: 145px;
+     height: 31px;
+}
